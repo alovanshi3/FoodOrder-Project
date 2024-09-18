@@ -32,7 +32,7 @@ View past orders and check their status.
 **Responsive Design:**
 Optimized for various screen sizes and devices.
 
-**Pages and Workflow**
+**Pages and Workflow**<br>
 Home Page: Displays a list of restaurants with search and filter options.<br>
 Menu Page: Shows restaurant menu with dish details.<br>
 Cart Page: Manages the user's cart and facilitates order placement.<br>
@@ -40,10 +40,10 @@ Order Confirmation: Confirms the details of the order with delivery address.<br>
 Payment Page: Securely processes payments.<br>
 Order History: Allows users to view their past orders.<br>
 
-**Technologies Used**
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Payment Integration: Stripe
-Email Integration: Mailtrap
+**Technologies Used**<br>
+Frontend: React.js<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB<br>
+Payment Integration: Stripe<br>
+Email Integration: Mailtrap<br>
 Image Handling: Cloudinary
